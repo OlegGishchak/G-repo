@@ -1,3 +1,3 @@
-print("Hello world")
-Hello
-gbye
+print("Hello world");
+Hello;
+gbye;
